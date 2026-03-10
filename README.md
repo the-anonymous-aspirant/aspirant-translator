@@ -154,8 +154,8 @@ Tests mock `argostranslate` entirely -- no model downloads or GPU required.
 
 See [docs/](docs/) for detailed specifications:
 
-- [TRANSLATOR_SPEC.md](docs/TRANSLATOR_SPEC.md) -- Full API specification
-- [TRANSLATOR_ARCHITECTURE.md](docs/TRANSLATOR_ARCHITECTURE.md) -- Architecture details
-- [TRANSLATOR_OPERATIONS.md](docs/TRANSLATOR_OPERATIONS.md) -- Setup, run, test, debug
+- [SPEC.md](docs/SPEC.md) -- Full API specification
+- [ARCHITECTURE.md](docs/ARCHITECTURE.md) -- Architecture details
+- [OPERATIONS.md](docs/OPERATIONS.md) -- Setup, run, test, debug
 - [DECISIONS.md](docs/DECISIONS.md) -- Key design decisions
 - [CHANGELOG.md](docs/CHANGELOG.md) -- Release history
